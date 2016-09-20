@@ -2,7 +2,7 @@
 
 App广告页，带有倒计时效果，默认倒计时效果是3s，可以在源文件中修改。
 
-<img href="https://github.com/SZ8023/SZAdvertiseView/blob/master/screenshot/advertiseView.png" width=275px height=400px>
+<img src="https://github.com/SZ8023/SZAdvertiseView/blob/master/screenshot/advertiseView.png" width=275px height=400px>
 
 ### 使用方式
 
