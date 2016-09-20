@@ -1,15 +1,15 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5875A4C927549AE297E8F4F25DDFD5A530A8E219",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "79E568B58FAE4E514E27F305CFCB5745CB826BF5",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "5875A4C927549AE297E8F4F25DDFD5A530A8E219" : 0,
+    "79E568B58FAE4E514E27F305CFCB5745CB826BF5" : 0,
     "DBBC7D21B04058797B07226E1E9D9F0080594BF2" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2ECA82AA-AE93-408E-AB68-DC0DC9F333AC",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "5875A4C927549AE297E8F4F25DDFD5A530A8E219" : "SZAdvertiseView\/",
+    "79E568B58FAE4E514E27F305CFCB5745CB826BF5" : "SZAdvertiseView\/",
     "DBBC7D21B04058797B07226E1E9D9F0080594BF2" : "SZAdvertiseView\/SZAdvertiseViewDemo\/SZAdvertiseViewDemo\/SZAdvertiseView\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "SZAdvertiseViewDemo",
@@ -19,7 +19,7 @@
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/SZ8023\/SZAdvertiseView.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5875A4C927549AE297E8F4F25DDFD5A530A8E219"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "79E568B58FAE4E514E27F305CFCB5745CB826BF5"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/SZ8023\/SZAdvertiseView.git",
